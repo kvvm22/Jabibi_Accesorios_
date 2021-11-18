@@ -1111,6 +1111,7 @@ color: var(--clr_4);
 		background-color: #999;
 		background-blend-mode: multiply;
 		background-attachment: normal;
+		justify-content: center;
 
 	}
 
