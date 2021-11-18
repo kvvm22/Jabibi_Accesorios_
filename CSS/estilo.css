@@ -93,7 +93,6 @@ ul {
 /*HEADER-------------------------------------------------------------*/
 
 header{
-
 	height: 100vh;
 	background: url(../img/header.jpg) center center/cover;
 	background-color: #999;
@@ -121,11 +120,11 @@ nav{ /*________________________________*/
 }
 
 .btn_menu{
-	font-size: 20px;
+	font-size: 30px;
 	position: fixed;
 	left: 0;
 	margin: 20px;
-	color: #FFFFFF87;
+	color: #FFFFFFA7;
 	cursor: pointer;
 	text-shadow: 1px 1px 0px rgba(150, 150, 150, 0.23);
 
@@ -1100,7 +1099,7 @@ color: var(--clr_4);
 		display: none;
 	}
 
-	.logo{
+	.logo_catalogo{
 		display: none;
 	}
 
