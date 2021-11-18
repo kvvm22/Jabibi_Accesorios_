@@ -1104,14 +1104,6 @@ color: var(--clr_4);
 		display: none;
 	}
 
-	.ws, .ws > i{
-		opacity: 1;
-		font-size: 30px;
-	}
-
-	.ws:hover{
-		transform: none;
-	}
 
 	header{
 		height: 75vh;
@@ -1120,6 +1112,15 @@ color: var(--clr_4);
 		background-blend-mode: multiply;
 		background-attachment: normal;
 
+	}
+
+	.ws, .ws > i{
+		opacity: 1;
+		font-size: 30px;
+	}
+
+	.ws:hover{
+		transform: none;
 	}
 
 	.header_textos{
