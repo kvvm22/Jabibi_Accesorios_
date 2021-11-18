@@ -1110,7 +1110,6 @@ color: var(--clr_4);
 		background-color: #999;
 		background-blend-mode: multiply;
 		background-attachment: normal;
-
 	}
 
 	.ws, .ws > i{
@@ -1503,6 +1502,10 @@ color: var(--clr_4);
 
 	.header_catalogo{
 		height: 20vh;	
+	}
+
+	.logo_catalogo{
+		display: none;
 	}
 
 	.contenedorCatalogo{
