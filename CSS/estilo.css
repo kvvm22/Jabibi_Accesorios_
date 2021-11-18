@@ -1459,6 +1459,7 @@ color: var(--clr_4);
 	}
 	.foo h3{
 		margin-top: 30px;
+		font-weight: bold;
 	}
 
 	.foo p, .foo a{
