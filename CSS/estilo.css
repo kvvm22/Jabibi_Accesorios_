@@ -1099,11 +1099,6 @@ color: var(--clr_4);
 		display: none;
 	}
 
-	.logo_catalogo{
-		display: none;
-	}
-
-
 	header{
 		height: 75vh;
 		background: url(../img/header3.jpg) right center/cover;
